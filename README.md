@@ -9,4 +9,3 @@ This project demonstrates a hands-on AWS Proof of Concept architecture with:
 
 ✅ Template is region-portable  
 📍 Deployed to us-east-1 and us-west-1  
-📄 View the architecture presentation: [Link to your deck/video]
