@@ -3,6 +3,7 @@ Hands-on AWS Project: High Availability, Security, and Regional Failover
 
 ▶ Watch the full walkthrough video
 (Built and deployed a multi-region, production-grade AWS architecture in just 10 days.)
+https://www.youtube.com/watch?v=e-Zx8v0smX4
 
 🧩 What This Project Demonstrates
 This is a real-world AWS proof-of-concept I built from scratch in 10 days, showcasing:
