@@ -1,7 +1,9 @@
 🚀 From Zero to Production in 10 Days
-
+```
 Hands-on AWS Project: High Availability, Security, and Regional Failover
-▶ Watch the full walkthrough videoBuilt and deployed a multi-region, production-grade AWS architecture in just 10 days. (https://lnkd.in/ehg8hwRE)
+▶ Watch the full walkthrough videoBuilt and deployed a multi-region, production-grade AWS architecture in just 10 days.
+(https://lnkd.in/ehg8hwRE)
+```
 
 📘 Project Overview
 --------------------
