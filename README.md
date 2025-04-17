@@ -9,11 +9,11 @@ This was my first 10 days of hands-on AWS experience, built immediately after ea
 
 What This Project Demonstrates
 -------------------------------
-✅ Multi-AZ EC2 instances with Auto Scaling
-🔁 Cross-zone load balancing using Application Load Balancer (ALB)
-🔒 Private/public subnet isolation via NAT Gateway☁️ S3 static site failover, CloudFront global acceleration, and WAF edge protection
-🌎 Latency-based regional routing with Amazon Route 53
-🧱 Infrastructure as Code with CloudFormation (fully region-portable template)
+- ✅ Multi-AZ EC2 instances with Auto Scaling
+- 🔁 Cross-zone load balancing using Application Load Balancer (ALB)
+- 🔒 Private/public subnet isolation via NAT Gateway☁️ S3 static site failover, CloudFront global acceleration, and WAF edge protection
+- 🌎 Latency-based regional routing with Amazon Route 53
+- 🧱 Infrastructure as Code with CloudFormation (fully region-portable template)
 
 📍 Deployed Regions
 -------------------
@@ -29,8 +29,10 @@ What This Project Demonstrates
 - Hosting public DNS with Route 53 and validating failover logic
 - Documenting infrastructure changes in GitHub (CI/CD pipeline alignment)
 
+
 📆 Architecture Milestones Timeline
 ====================================
+```
 Date      Milestone
 ----------------------------------------------------------
 03/21/25  Created new AWS environment with SG rules and launched initial EC2 web server in us-east-1c.
@@ -44,21 +46,20 @@ Date      Milestone
 04/05/25  Used CloudFormation to deploy full infrastructure stack in us-west-1b/1c.
 04/07/25  Removed CloudFront; implemented Route 53 latency-based routing between us-east and us-west for regional failover.
 
-
-
 (See BUILD_LOG.md for full details on all ten sessions.)
-
+```
 📂 Repository Contents
 -----------------------
+```
 template.yaml — CloudFormation template (region-portable)
 BUILD_LOG.md — Day-by-day implementation log
 README.md — You’re here!
 Walkthrough video — linked above
-
+```
 🙋‍♂️ About Me
 ===============
 I’m a certified AWS Solutions Architect who built this as my first hands-on AWS project — and I’m now looking for my Day 1 on a professional cloud team. Let’s connect!
-
+```
 linkedin.com/in/robert-jr-caruso-23080180
-GitHub: github.com/Bob-OCPLinkedIn:
------------------------------------
+GitHub: github.com/Bob-OCP:
+```
