@@ -44,6 +44,8 @@ Date      Milestone
 04/05/25  Used CloudFormation to deploy full infrastructure stack in us-west-1b/1c.
 04/07/25  Removed CloudFront; implemented Route 53 latency-based routing between us-east and us-west for regional failover.
 
+
+
 (See BUILD_LOG.md for full details on all ten sessions.)
 
 📂 Repository Contents
